@@ -2,7 +2,7 @@
 A Swift-Based Real-time COVID-19 Statistic and Live Map iOS Application
 
 
-#<font size="10">Skills</font>
+## Skills
 * Swift
 * SwiftUI
 * UIKit
