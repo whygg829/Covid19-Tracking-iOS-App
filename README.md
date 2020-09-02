@@ -17,3 +17,5 @@ A Swift-Based Real-time COVID-19 Statistic iOS Application
 * SwiftUI
 * UIKit
 * CocoaPods
+
+###(Udemy Personal Project)
