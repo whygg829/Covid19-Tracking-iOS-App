@@ -18,4 +18,4 @@ A Swift-Based Real-time COVID-19 Statistic iOS Application
 * UIKit
 * CocoaPods
 
-###(Udemy Personal Project)
+### (Udemy Personal Project)
