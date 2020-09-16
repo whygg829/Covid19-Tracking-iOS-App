@@ -15,7 +15,9 @@ A Swift-Based Real-time COVID-19 Statistic iOS Application
 ## Skills
 * Swift
 * SwiftUI
+* MapKit
 * UIKit
 * CocoaPods
+* SwiftyJSON
+* Alamofire
 
-### (Udemy Personal Project)
